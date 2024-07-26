@@ -1,4 +1,0 @@
-try practice
-add
-・git add
-・git commit
